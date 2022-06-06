@@ -1,10 +1,7 @@
-# Oi, tudo bem? Chegou aqui através do curso, certo? 🙃
+# Olá! Repositório do Projeto: Recriando Página Inicial do Instagram :smile:
 
-Esse é o repositório da nossa aula de Flexbox, na qual vamos fazer a interface de login do Instagram! 
+Este é o repositório que criei para disponibilização do código construído junto com a Professora. Realizei alguns pequenos ajustes de mídia, para personalizá-lo.
 
-### Os requisitos são:
-
-* [HTML básico](https://www.w3schools.com/html/)
-* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+### DIO-Santander-Bootcamp 2022!
 
 ## 🚀 Let's code! 🚀
